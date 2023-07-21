@@ -1,5 +1,7 @@
 data_input
 .ipynb_checkpoints/
 .env
+# virtual environment folder
+.venv/
 data_output
 secrets.toml
